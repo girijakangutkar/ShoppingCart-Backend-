@@ -24,5 +24,18 @@
     ],
     "totalPrice": 477,
     "timestamp": "2025-10-02T11:48:02.748Z"
+  },
+  {
+    "items": [
+      {
+        "id": 1,
+        "name": "Denim Jacket",
+        "quantity": 4,
+        "price": 99,
+        "total": 396
+      }
+    ],
+    "totalPrice": 396,
+    "timestamp": "2025-10-02T16:54:10.762Z"
   }
 ]
