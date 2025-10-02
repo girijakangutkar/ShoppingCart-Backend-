@@ -1,0 +1,56 @@
+[
+  {
+    "id": "p1",
+    "name": "Classic Tee",
+    "price": 24.99,
+    "category": "clothes",
+    "color": "white",
+    "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/attachments/gen-images/public/classic-tee-shirt-AWn0eHHHXXlqGwpuot7KRMaSi97OE4.jpg",
+    "description": "Soft cotton classic tee with a relaxed fit."
+  },
+  {
+    "id": "p2",
+    "name": "Noise-cancel Headphones",
+    "price": 199.0,
+    "category": "electronics",
+    "color": "black",
+    "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/attachments/gen-images/public/headphones-black-Lk9MQHVh460uVrybNVVXPjhissB6vK.jpg",
+    "description": "Over-ear headphones with rich sound and long battery life."
+  },
+  {
+    "id": "p3",
+    "name": "City Sneakers",
+    "price": 79.99,
+    "category": "shoes",
+    "color": "gray",
+    "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/attachments/gen-images/public/gray-sneakers-sKHgvmavttVHJQN3Q722RGUY0IZ5ee.jpg",
+    "description": "Lightweight everyday sneakers built for comfort."
+  },
+  {
+    "id": "p4",
+    "name": "Smart Watch",
+    "price": 159.0,
+    "category": "electronics",
+    "color": "silver",
+    "image": " https://hebbkx1anhila5yf.public.blob.vercel-storage.com/attachments/gen-images/public/smart-watch-silver-9JCoj6ZNs6s10g0kauzS40qpClaRoH.jpg",
+    "description": "Track fitness and notifications in a sleek design."
+  },
+  {
+    "id": "p5",
+    "name": "Denim Jacket",
+    "price": 99.0,
+    "category": "clothes",
+    "color": "blue",
+    "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/attachments/gen-images/public/denim-jacket-blue-iugGcnDXBMSkXP5kzWrW5I32FScFFy.jpg",
+    "description": "Classic denim jacket with modern tailoring."
+  },
+  {
+    "id": "p6",
+    "name": "Running Shoes",
+    "price": 120.0,
+    "category": "shoes",
+    "color": "red",
+    "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/attachments/gen-images/public/running-shoes-red-mPSULf8iHvNbRQnroYimsnq8gdMHyc.jpg",
+    "description": "Responsive cushioning for daily training runs."
+  }
+]
