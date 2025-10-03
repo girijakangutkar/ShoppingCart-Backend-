@@ -12,6 +12,10 @@ A full-stack shopping cart application with complete CRUD and checkout functiona
 
 ---
 
+[![Watch the demo](<https://github.com/girijakangutkar/ShoppingCart-Frontend-/blob/master/src/assets/Video/Screenshot%20(1448).png>)](https://github.com/girijakangutkar/ShoppingCart-Frontend-/blob/master/src/assets/Video/video1287993858.mp4)
+
+---
+
 ## Features
 
 ### Backend
