@@ -16,6 +16,9 @@ A full-stack shopping cart application with complete CRUD and checkout functiona
 
 ### Backend
 
+- ** Backend Deployed Link:**
+- https://goshopping-3lv9.onrender.com/
+
 - **Product Management (CRUD)**:
 
   - `GET /products` – Fetch all products
@@ -33,6 +36,9 @@ A full-stack shopping cart application with complete CRUD and checkout functiona
   - No external database required
 
 ### Frontend
+
+- **Frontend Deployed link:**
+- https://goshopping-three.vercel.app/
 
 - Fetches product data from backend API
 - Displays product listings on the UI
