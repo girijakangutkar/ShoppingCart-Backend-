@@ -16,7 +16,7 @@ A full-stack shopping cart application with complete CRUD and checkout functiona
 
 ### Backend
 
-- ** Backend Deployed Link:**
+- **Backend Deployed Link:**
 - https://goshopping-3lv9.onrender.com/
 
 - **Product Management (CRUD)**:
