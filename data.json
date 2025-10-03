@@ -2,7 +2,7 @@
   {
     "id": "p1",
     "name": "Classic Tee",
-    "price": 24.99,
+    "price": 249,
     "category": "clothes",
     "color": "white",
     "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/attachments/gen-images/public/classic-tee-shirt-AWn0eHHHXXlqGwpuot7KRMaSi97OE4.jpg",
@@ -11,7 +11,7 @@
   {
     "id": "p2",
     "name": "Noise-cancel Headphones",
-    "price": 199.0,
+    "price": 2995,
     "category": "electronics",
     "color": "black",
     "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/attachments/gen-images/public/headphones-black-Lk9MQHVh460uVrybNVVXPjhissB6vK.jpg",
@@ -20,7 +20,7 @@
   {
     "id": "p3",
     "name": "City Sneakers",
-    "price": 79.99,
+    "price": 1249,
     "category": "shoes",
     "color": "gray",
     "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/attachments/gen-images/public/gray-sneakers-sKHgvmavttVHJQN3Q722RGUY0IZ5ee.jpg",
@@ -29,7 +29,7 @@
   {
     "id": "p4",
     "name": "Smart Watch",
-    "price": 159.0,
+    "price": 1599,
     "category": "electronics",
     "color": "silver",
     "image": " https://hebbkx1anhila5yf.public.blob.vercel-storage.com/attachments/gen-images/public/smart-watch-silver-9JCoj6ZNs6s10g0kauzS40qpClaRoH.jpg",
@@ -38,7 +38,7 @@
   {
     "id": "p5",
     "name": "Denim Jacket",
-    "price": 99.0,
+    "price": 496,
     "category": "clothes",
     "color": "blue",
     "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/attachments/gen-images/public/denim-jacket-blue-iugGcnDXBMSkXP5kzWrW5I32FScFFy.jpg",
@@ -47,7 +47,7 @@
   {
     "id": "p6",
     "name": "Running Shoes",
-    "price": 120.0,
+    "price": 1299,
     "category": "shoes",
     "color": "red",
     "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/attachments/gen-images/public/running-shoes-red-mPSULf8iHvNbRQnroYimsnq8gdMHyc.jpg",
@@ -56,7 +56,7 @@
   {
     "id": "p7",
     "name": "Leather Backpack",
-    "price": 89.99,
+    "price": 899,
     "category": "accessories",
     "color": "brown",
     "image": "https://th.bing.com/th/id/OIP.CtbonF1s1rGyBBtRsN4OzAHaHa?w=190&h=189&c=7&r=0&o=7&cb=12&dpr=1.3&pid=1.7&rm=3",
@@ -65,7 +65,7 @@
   {
     "id": "p8",
     "name": "Bluetooth Speaker",
-    "price": 49.99,
+    "price": 599,
     "category": "electronics",
     "color": "blue",
     "image": "data:image/webp;base64,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",
@@ -74,7 +74,7 @@
   {
     "id": "p9",
     "name": "Yoga Pants",
-    "price": 39.99,
+    "price": 299,
     "category": "clothes",
     "color": "black",
     "image": "https://th.bing.com/th/id/OIP.giXcWjyevXc5wN4nA_9sXgHaHa?w=216&h=216&c=7&r=0&o=7&cb=12&dpr=2&pid=1.7&rm=3",
@@ -83,7 +83,7 @@
   {
     "id": "p10",
     "name": "Canvas Sneakers",
-    "price": 59.99,
+    "price": 1449,
     "category": "shoes",
     "color": "white",
     "image": "https://th.bing.com/th/id/OIP.BGkZlHA20fmvJDZBCs-IjAHaHa?w=196&h=196&c=7&r=0&o=7&cb=12&dpr=1.3&pid=1.7&rm=3",
